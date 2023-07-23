@@ -1,7 +1,7 @@
 # Wireshark-Analysis
 ## Investigating possible intrustions using Wireshark
 
-![Wireshark - 1](https://github.com/beaston15/Wireshark-Analysis/assets/121417326/ef90d326-63d8-4d72-81fa-2131545bd645)
+<p>![Wireshark - 1](https://github.com/beaston15/Wireshark-Analysis/assets/121417326/ef90d326-63d8-4d72-81fa-2131545bd645)</p>
 <p>
 In our first investigation we can see ARP traffic is asking for the MAC address of the subnet IP addresses to be sent to 192.168.56.1. This can help a bad actor indentify online systems when the ARP request is replied to.
 </p>
